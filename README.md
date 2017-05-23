@@ -9,7 +9,7 @@ Learning code in Moringa School introduced me to a community of developers who w
 2. Apiut
 
 # Purpose of the Project
-...The purpose of this Project is to give me a starting base from which I can learn to create a good website.
+The purpose of this Project is to give me a starting base from which I can learn to create a good website.
 
 # **License**
- ...Copyright(c)2017 Moringa School.
+Copyright(c)2017 Moringa School.
