@@ -1,3 +1,15 @@
 body {
   background-color: lightblue;
 }
+
+h2 {
+  color: lightblue;
+  font-family: sans-serif;
+  font-size: 250%;
+}
+
+h3 {
+  color: lightblue;
+  font-family: sans-serif;
+  font-size: 250%
+}
